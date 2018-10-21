@@ -1,5 +1,5 @@
 _repo: Fanny-and-the-Servant-Problem_2829
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -28,5 +28,6 @@ subjects:
 - !lcsh 'Comedies'
 - !lcc 'PR'
 - !lcsh 'English drama'
+- GITenberg
 title: Fanny and the Servant Problem
 url: http://www.gutenberg.org/ebooks/2829
